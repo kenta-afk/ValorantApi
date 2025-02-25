@@ -1,8 +1,5 @@
-```
-npm install
-npm run dev
-```
-
-```
-npm run deploy
-```
+# valorantAPI
+## 実装予定
+- 試合情報の取得
+- マップごとのエージェントの使用回数
+- グラフでの描画
